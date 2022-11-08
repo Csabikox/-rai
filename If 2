@@ -1,0 +1,8 @@
+#1.Feladat: Kérjünk be a felhasználótól egy olyan számot, ami nagyobb mint 20.
+
+szam = int(input("Kérlek addj meg egy olyat számot, ami nagyobb mint 20!:"))
+
+if szam > 20:
+    print("A szám nagyobb, mint 20 tehát megfelel az elvárásnak!")
+else:
+    print("A szám amit megadtál az nem felel meg az elvárásnak!")
