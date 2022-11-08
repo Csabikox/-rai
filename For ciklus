@@ -1,3 +1,4 @@
+#1.Feladat: Írjuk ki a páros számokat 500-1000 ig.
 
 for x in range(499,1001,2):
     print("A páros számok:",x)
