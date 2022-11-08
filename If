@@ -1,6 +1,6 @@
 #1.Feladat: Kérjünk be a felhasználótól egy olyan számot, ami kisebb mint 10.
 
-szam = int(input("Kérlek addj meg egy olyat számot, ami kisebb mint 10!:"))
+szam = int(input("Kérlek adj meg egy olyat számot, ami kisebb mint 10!:"))
 
 if szam > 10:
     print("A szám nagyobb, mint 10 tehát adj meg egy kissebb számot!")
